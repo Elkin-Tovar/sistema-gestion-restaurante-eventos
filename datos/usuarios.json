@@ -1,0 +1,32 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Elkin Tovar",
+        "correo": "elkin@restaurante.com",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "María Gómez",
+        "correo": "maria@restaurante.com",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "U003",
+        "nombre": "Carlos Pérez",
+        "correo": "carlos@restaurante.com",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "U004",
+        "nombre": "Ana Rodríguez",
+        "correo": "ana@restaurante.com",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "U005",
+        "nombre": "Steven Alban",
+        "correo": "steven@empleado.com",
+        "rol": "Empleado"
+    }
+]

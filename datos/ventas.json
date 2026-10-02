@@ -1,0 +1,20 @@
+[
+    {
+        "id_venta": "V-1727376000",
+        "usuario_identificacion": "U001",
+        "producto_codigo": "P001",
+        "fecha": "2026-09-26 12:00:00"
+    },
+    {
+        "id_venta": "V-1790487149",
+        "usuario_identificacion": "U002",
+        "producto_codigo": "P002",
+        "fecha": "2026-09-27 00:32:29"
+    },
+    {
+        "id_venta": "V-1790905824",
+        "usuario_identificacion": "U003",
+        "producto_codigo": "P002",
+        "fecha": "2026-10-01 20:50:24"
+    }
+]
